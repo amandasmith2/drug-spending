@@ -66,3 +66,6 @@ If you have questions or you'd like to discuss something on your mind, reach out
 * **An analytical language of your choice** (Python, R, Julia, etc.)
 * **Python 3** (for Jupyter/`.ipynb` notebook files)
 * **RStudio** (for R Markdown/`.Rmd` notebook files)
+
+This is a very useful research about spending on drugs in US. I have learnt a lot from here and will be using this knowledge in my work at http://www.thehattoninstitute.org/
+
